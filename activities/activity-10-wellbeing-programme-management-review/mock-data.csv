@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.mckinsey.com/featured-insights/mckinsey-guide-to-navigating-the-new-world-of-work/thriving-at-work-building-resilience-wellness-and-motivation,verified public source
+training_assumption,assumption_1,"All programme, outcome, cost, baseline and comparison data are fictional.",fictional course input
+training_assumption,assumption_2,Business units were not randomly assigned; workload and leadership changes occurred during the pilot.,fictional course input
+training_assumption,assumption_3,Small groups and sensitive service data must be aggregated before management reporting.,fictional course input
+training_assumption,assumption_4,"The decision options are scale, adapt and extend pilot, pause, or stop—not simply pass/fail.",fictional course input
+learner_question,question_1,Did delivery reach the intended groups safely and equitably?,response required
+learner_question,question_2,"What evidence supports changes in experience, work conditions and outcomes?",response required
+learner_question,question_3,Which alternative explanations and data-quality weaknesses limit confidence?,response required
+learner_question,question_4,"What should management scale, adapt, pause or stop, and what is the next review trigger?",response required

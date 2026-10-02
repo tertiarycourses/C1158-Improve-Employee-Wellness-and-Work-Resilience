@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.ncbi.nlm.nih.gov/books/NBK201567/,verified public source
+training_assumption,assumption_1,"Vendor claims, prices and implementation times are fictional and have not been independently validated.",fictional course input
+training_assumption,assumption_2,"The workforce need is access to timely support and recovery, not increased monitoring.",fictional course input
+training_assumption,assumption_3,Mobile access and English literacy vary across groups.,fictional course input
+training_assumption,assumption_4,The board may reject all four options or select a non-technology response.,fictional course input
+learner_question,question_1,"Which source claims are credible, relevant and transferable to this workforce?",response required
+learner_question,question_2,What employee need does each option address—and what new risk does it create?,response required
+learner_question,question_3,Which criteria and weights should govern the choice?,response required
+learner_question,question_4,"What pilot result would justify scale, adaptation or termination?",response required

@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.gallup.com/workplace/404105/importance-of-employee-wellbeing.aspx,verified public source
+training_assumption,assumption_1,"All survey, absence, overtime, turnover and focus-group data in the activity pack are fictional.",fictional course input
+training_assumption,assumption_2,Groups with fewer than ten responses must not be reported separately.,fictional course input
+training_assumption,assumption_3,Operational indicators have multiple possible causes and cannot diagnose health conditions.,fictional course input
+training_assumption,assumption_4,The training dataset intentionally includes missing responses and unequal response rates.,fictional course input
+learner_question,question_1,"What can each evidence source support, and what can it not support?",response required
+learner_question,question_2,Which needs are shared and which differ by workforce group?,response required
+learner_question,question_3,"Where could response bias, small numbers or stereotyping distort the result?",response required
+learner_question,question_4,"Which two priorities should management address first, and why?",response required

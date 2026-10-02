@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/employee-resilience-discussion-report_tcm18-91717.pdf,verified public source
+training_assumption,assumption_1,CivicConnect and all employee evidence are fictional training inputs.,fictional course input
+training_assumption,assumption_2,There is no evidence that a one-hour webinar alone will address the primary work demands.,fictional course input
+training_assumption,assumption_3,"The operating budget allows changes to rosters, escalation, peer support and a targeted development programme.",fictional course input
+training_assumption,assumption_4,Any clinical support must be delivered by appropriately qualified providers.,fictional course input
+learner_question,question_1,"Which demands are preventable, reducible or unavoidable?",response required
+learner_question,question_2,"Which resources are missing at individual, team and organisational levels?",response required
+learner_question,question_3,What sequence balances immediate relief with sustainable redesign?,response required
+learner_question,question_4,How will leaders know whether the change improves recovery and service?,response required

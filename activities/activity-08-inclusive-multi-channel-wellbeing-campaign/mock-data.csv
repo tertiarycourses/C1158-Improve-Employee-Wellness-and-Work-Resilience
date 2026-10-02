@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.gallup.com/workplace/404105/importance-of-employee-wellbeing.aspx,verified public source
+training_assumption,assumption_1,"Personas, channel reach, trust scores and message-test results are fictional.",fictional course input
+training_assumption,assumption_2,"EAP individual use is confidential to the provider, subject to stated safety and legal boundaries.",fictional course input
+training_assumption,assumption_3,"The campaign has six weeks and a S$18,000 budget.",fictional course input
+training_assumption,assumption_4,"No message may promise improved health, productivity or promotion outcomes to an individual participant.",fictional course input
+learner_question,question_1,What behaviour or decision should each audience take?,response required
+learner_question,question_2,"Which benefit, barrier, messenger and channel combination fits each group?",response required
+learner_question,question_3,How will the campaign explain privacy and voluntariness accurately?,response required
+learner_question,question_4,"Which measures distinguish delivery, comprehension, trust and action?",response required

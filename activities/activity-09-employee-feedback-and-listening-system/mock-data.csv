@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://workplacementalhealth.org/mental-health-topics/resilience,verified public source
+training_assumption,assumption_1,All sample responses and organisational details are fictional.,fictional course input
+training_assumption,assumption_2,Reporting groups must meet a minimum threshold and free text needs disclosure review.,fictional course input
+training_assumption,assumption_3,An independent research administrator is available for confidential interviews.,fictional course input
+training_assumption,assumption_4,"Immediate safety disclosures require a defined, transparent escalation route.",fictional course input
+learner_question,question_1,"Which question requires survey, focus group, interview or service data?",response required
+learner_question,question_2,"What data should not be collected, and what reporting threshold is safe?",response required
+learner_question,question_3,"How will employees understand anonymity, confidentiality and escalation?",response required
+learner_question,question_4,"How will management acknowledge, decide and close the feedback loop?",response required

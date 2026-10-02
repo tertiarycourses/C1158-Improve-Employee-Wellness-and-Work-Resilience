@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.pdpc.gov.sg/overview-of-pdpa/the-legislation/personal-data-protection-act/data-protection-obligations,verified public source
+training_assumption,assumption_1,"MarinaLink Logistics, all workforce figures and vendor terms are fictional training inputs.",fictional course input
+training_assumption,assumption_2,"The proposed device records steps, heart rate, sleep estimates, location during challenges and a user identifier.",fictional course input
+training_assumption,assumption_3,"Participation is advertised as voluntary, but line managers will distribute devices and see individual dashboards under the draft plan.",fictional course input
+training_assumption,assumption_4,Thirty per cent of shift staff share or do not regularly use a compatible smartphone; some employees cannot safely pursue step targets.,fictional course input
+learner_question,question_1,"What decision purpose is necessary and proportionate, and which proposed fields are excessive?",response required
+learner_question,question_2,Where could power imbalance undermine voluntariness or trust?,response required
+learner_question,question_3,"Which privacy, accessibility and fairness controls are pilot gates?",response required
+learner_question,question_4,"Should the pilot proceed, proceed conditionally or stop—and what evidence supports the decision?",response required

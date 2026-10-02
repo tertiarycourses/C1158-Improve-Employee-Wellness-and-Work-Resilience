@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.ncbi.nlm.nih.gov/books/NBK201567/,verified public source
+training_assumption,assumption_1,"All funnel, budget, vendor and employee-comment data are fictional.",fictional course input
+training_assumption,assumption_2,Registration is not evidence of benefit and may be a vanity metric.,fictional course input
+training_assumption,assumption_3,The vendor can provide privacy-safe aggregates but the current contract lacks response-time and accessibility standards.,fictional course input
+training_assumption,assumption_4,"A S$35,000 budget can be reallocated across access, communication, manager release time and service capacity.",fictional course input
+learner_question,question_1,Where does the participation funnel fail for each workforce group?,response required
+learner_question,question_2,"Which barriers are awareness, access, trust, relevance, manager or service-quality problems?",response required
+learner_question,question_3,Would the proposed incentive support or distort the intended behaviour?,response required
+learner_question,question_4,What partner standards and experiment would restore sustainable participation?,response required

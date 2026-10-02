@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.tal.sg/tafep/employment-practices/mental-health,verified public source
+training_assumption,assumption_1,All characters and events are fictional learning scenarios.,fictional course input
+training_assumption,assumption_2,Managers are not clinicians and must not diagnose or provide therapy.,fictional course input
+training_assumption,assumption_3,"The organisation has HR, an EAP and a documented emergency escalation route.",fictional course input
+training_assumption,assumption_4,Work adjustments depend on role and risk but should use only necessary information.,fictional course input
+learner_question,question_1,"Which policy statements need a concrete routine, tool or decision right?",response required
+learner_question,question_2,"What can managers ask, record, decide and escalate?",response required
+learner_question,question_3,How should the playbook handle immediate safety concerns and ordinary work support differently?,response required
+learner_question,question_4,What evidence demonstrates implementation beyond attendance at training?,response required

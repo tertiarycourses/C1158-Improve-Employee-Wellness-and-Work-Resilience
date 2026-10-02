@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://pmc.ncbi.nlm.nih.gov/articles/PMC8168167/,verified public source
+training_assumption,assumption_1,"HarbourView, workforce data and current service performance are fictional.",fictional course input
+training_assumption,assumption_2,The organisation can use HPB resources where eligible but must validate current programme terms before commitment.,fictional course input
+training_assumption,assumption_3,"Employee groups differ in schedule, physical demand, language, financial concerns and digital access.",fictional course input
+training_assumption,assumption_4,Health screening results will not be shared with line managers.,fictional course input
+learner_question,question_1,Which shared and targeted needs should the portfolio address?,response required
+learner_question,question_2,"How will prevention, early help, support and recovery connect?",response required
+learner_question,question_3,What makes each pathway accessible and trustworthy for shift employees?,response required
+learner_question,question_4,"Which components should be piloted, scaled, partnered or stopped?",response required
